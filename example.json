@@ -1,0 +1,50 @@
+[
+    {
+        "image": "images/imagee1.jpeg",
+        "category": "earthernware",
+        "title": "Vibrant Earthenware",
+        "description": "Vibrant Earthenware Collection offers a stunning array of handcrafted ceramic artistry in vibrant hues and intricate designs.",
+        "buy": "Add to cart",
+        "createdDate": "2023-09-10"
+    },
+    {
+        "image": "images/imagee2.jpeg",
+        "category": "earthernware",
+        "title": "Ethnic Earthenware",
+        "description": "An ethnic earthenware collection embodies the rich cultural heritage of diverse traditions inspired by various regions and customs.",
+        "buy": "Add to cart",
+        "createdDate": "2023-09-12"
+    },
+    {
+        "image": "images/images1.jpeg",
+        "category": "stoneware",
+        "title": "Stoneware Dinner Bowls",
+        "description": "Hand Glazed Handcrafted Ceramic Stoneware Bowls combine artisanal craftsmanship and vibrant glazes for an elegant dining",
+        "buy": "Add to cart",
+        "createdDate": "2023-09-15"
+    },
+    {
+        "image": "images/images2.jpeg",
+        "category": "stoneware",
+        "title": "Large Stoneware Ceramic Mug",
+        "description": "These stoneware mugs offer a perfect blend of rustic charm and modern design, making your coffee or tea moments a truly special experience.",
+        "buy": "Add to cart",
+        "createdDate": "2023-09-17"
+    },
+    {
+        "image": "images/imagep1.jpeg",
+        "category": "parceloin",
+        "title": "Dresden Porcelain Mug",
+        "description": "Dresden porcelain mugs exemplify craftsmanship and timeless elegance, adding sophistication to beverage enjoyment.",
+        "buy": "Add to cart",
+        "createdDate": "2023-09-20"
+    },
+    {
+        "image": "images/imagep2.jpg",
+        "category": "parceloin",
+        "title": "Meissen Porcelain Plates",
+        "description": "Meissen porcelain plates epitomize the pinnacle of European porcelain artistry, renowned for their historical significance.",
+        "buy": "Add to cart",
+        "createdDate": "2023-09-22"
+    }
+]
