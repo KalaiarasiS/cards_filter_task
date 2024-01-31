@@ -5,10 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Card Filter</title>
     <link rel="stylesheet" href="style.css"> 
-    <script src="at.js"></script>
     <!--Preconnect and DNS-Prefetch to improve page load time-->
-    <link rel="preconnect" href="//moonraftinnovationla.tt.omtrdc.net">
-    <link rel="dns-prefetch" href="//moonraftinnovationla.tt.omtrdc.net">
+    <link rel="preconnect" href="https://moonraftinnovationla.tt.omtrdc.net">
+    <link rel="dns-prefetch" href="https://moonraftinnovationla.tt.omtrdc.net">
     <!--/Preconnect and DNS-Prefetch-->
     <!--Data Layer to enable rich data collection and targeting-->
     <script>
@@ -36,15 +35,15 @@
                 }
             };
         };
-        window.targetGlobalSettings = {  cookieDomain: 'KalaiarasiS.github.io' // set cookies on the subdomain
-            };
-            targetPageParams();
+        targetPageParams();
+        window.targetGlobalSettings = {  
+   cookieDomain: 'KalaiarasiS.github.io' // set cookies on the subdomain
+};
     </script>
-    <!-- targetPageParams() -->
-    <!--jQuery or other helper libraries should be implemented before at.js if you would like to use their methods in Target-->
-    <!-- <script src="jquery-3.3.1.min.js"></script> -->
-    <!--/jQuery-->
+    
     <!--Target's JavaScript SDK, at.js-->
+    <script src="at.js"></script>
+    <!--/at.js-->
 </head>
 <body>
     <h1>Pottery Collections</h1>
